@@ -17,8 +17,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-Q62rwcuHn3)
+- [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Stats-Preview-Card-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
